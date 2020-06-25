@@ -1,0 +1,19 @@
+{
+  "collection_delivery": "{{ticket.ticket_field_25050165}}",
+  "dispatch_date": "{{ticket.ticket_field_26163889}}",
+  "is_member": "{{ticket.ticket_field_25739049}}",
+  "name": "{{ticket.ticket_field_27941965}}",
+  "order_type": "{{ticket.ticket_field_26034145}}",
+  "owings": "{{ticket.ticket_field_31113289}}",
+  "paid": "{{ticket.ticket_field_25376589}}",
+  "payment_method": "{{ticket.ticket_field_27413489}}",
+  "people_ordering": "{{ticket.ticket_field_27816469}}",
+  "price_total": "{{ticket.ticket_field_26268975}}",
+  "source": "{{ticket.ticket_field_25334989}}",
+  "status": "{{ticket.ticket_field_25053145}}",
+  "tags": "{{ticket.tags}}",
+  "ticket_id": "{{ticket.id}}",
+  "tracking": "{{ticket.ticket_field_26113455}}",
+  "where_is_prescription": "{{ticket.ticket_field_27919705}}",
+  "phone": "{{ticket.ticket_field_25309499}}"
+}

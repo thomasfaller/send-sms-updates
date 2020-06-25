@@ -1,0 +1,17 @@
+{
+  "name": "hw-sms-updates",
+  "author": {
+    "name": "Thomas",
+    "email": "thomasfaller@gmail.com",
+    "url": "https://github.com/thomasfaller"
+  },
+  "defaultLocale": "en",
+  "private": true,
+  "location": {
+    "support": {
+      "ticket_sidebar": "assets/iframe.html"
+    }
+  },
+  "version": "1.0",
+  "frameworkVersion": "2.0"
+}
